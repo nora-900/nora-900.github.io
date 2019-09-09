@@ -1,0 +1,34 @@
+.logo-image{
+    width: 70px; 
+}
+.main{
+    width: 100%;
+ }
+
+.footer{
+margin-top: 30px; }
+
+.f-images{ width:40%; 
+}
+    
+
+.h1 {
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#4a4e5277;
+}
+.h4{
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#4a4e524d;
+}   
+.h5{
+     text-transform: capitalize;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color:#4a4e5270;
+    }  
+.p{
+
+     color:gray; 
+    }
+ 
